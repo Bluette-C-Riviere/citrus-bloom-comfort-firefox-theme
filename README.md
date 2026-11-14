@@ -1,4 +1,4 @@
-# citrust-bloom-comfort-firefox-theme
+# citrus-bloom-comfort-firefox-theme
 
 A soft lavender and warm ivory Firefox theme designed to create a calm, comfortable, and visually balanced browsing experience.
 
