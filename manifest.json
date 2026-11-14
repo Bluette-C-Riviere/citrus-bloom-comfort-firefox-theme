@@ -1,0 +1,37 @@
+{
+  "manifest_version": 2,
+  "name": "Citrus Bloom — Comfort Edition",
+  "version": "1.1.0",
+  "description": "A soft lavender and warm ivory Firefox theme designed for a calm, comfortable browser interface.",
+  "theme": {
+    "images": {
+      "theme_frame": "citrus-header.jpg"
+    },
+    "colors": {
+      "frame": "#594A70",
+      "frame_inactive": "#6E607D",
+      "tab_background_text": "#F7F2FA",
+      "tab_selected": "#FFF9F0",
+      "tab_text": "#34313C",
+      "toolbar": "#E8DFF0",
+      "toolbar_text": "#34313C",
+      "toolbar_field": "#FFF9F0",
+      "toolbar_field_text": "#34313C",
+      "toolbar_field_border": "#D3C6DF",
+      "toolbar_field_focus": "#FFFFFF",
+      "toolbar_field_border_focus": "#9A82AE",
+      "bookmark_text": "#34313C",
+      "icons": "#594A70",
+      "icons_attention": "#C87555",
+      "button_background_hover": "#DCD0E7",
+      "button_background_active": "#D0C1DE",
+      "toolbar_top_separator": "#D3C6DF",
+      "toolbar_bottom_separator": "#D3C6DF",
+      "toolbar_vertical_separator": "#CFC1DC"
+    },
+    "properties": {
+      "color_scheme": "light",
+      "content_color_scheme": "light"
+    }
+  }
+}
